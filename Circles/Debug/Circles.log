@@ -1,0 +1,8 @@
+﻿  Cycl.cpp
+D:\Programowanie\C++\Focp projekt\Circles\Circles\Cycl.cpp(99,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Programowanie\C++\Focp projekt\Circles\Circles\Cycl.cpp(100,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Cycle.cpp
+  functions.cpp
+  Graph.cpp
+  Generowanie kodu...
+  Circles.vcxproj -> D:\Programowanie\C++\Focp projekt\Circles\Debug\Circles.exe
